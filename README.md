@@ -69,13 +69,6 @@ Build pack to compile classmaps at update?
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
 * http://sebastian-bergmann.de/archives/885-Stubbing-Hard-Coded-Dependencies.html
 
-
-## Cross Browser Testing Tools
-
-* https://browserlab.adobe.com/en-us/index.html
-* https://browserlab.adobe.com/
-* http://www.browserstack.com/
-
 ## GWT
 
 * http://code.google.com/p/gwt-platform/wiki/GettingStarted#Browsing_the_Javadoc
@@ -86,3 +79,9 @@ Build pack to compile classmaps at update?
 * http://code.google.com/p/google-web-toolkit-incubator/wiki/LoginSecurityFAQ
 * http://code.google.com/p/gwtsecurity/wiki/designConsideration
 * http://varuntayur.wordpress.com/2012/01/25/session-management-in-gwt/
+ 
+## Cross Browser Testing Tools
+
+* https://browserlab.adobe.com/en-us/index.html
+* https://browserlab.adobe.com/
+* http://www.browserstack.com/
