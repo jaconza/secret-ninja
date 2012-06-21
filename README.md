@@ -116,16 +116,25 @@ Build pack to compile classmaps at update?
 * http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
 * http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
 
-## Modules
+### Modules
 
 * http://httpd.apache.org/docs/2.2/mod/mod_cache.html
 * http://code.google.com/speed/page-speed/docs/module.html
 * http://httpd.apache.org/docs/2.0/mod/mod_expires.html
 
-
-## Apache as a Proxy
+### Apache as a Proxy
 
 * http://www.serverwatch.com/tutorials/article.php/10825_3092521_3/Configuring-Apache-20-as-a-Forward-Proxy-Server.htm
 
+---
+
+## PHP Tools
+
+* http://www.smashingmagazine.com/2009/01/20/50-extremely-useful-php-tools/
+* http://manual.phpdoc.org/HTMLframesConverter/default/phpDocumentor/tutorial_phpDocumentor.howto.pkg.html#basics.docblock
+* http://devzone.zend.com/article/2803-Introducing-xdebug
+* http://www.phpsrc.org/projects/pti-php-codesniffer/wiki/
+* http://phpmd.org/download/index.html
+ 
 ---
 
