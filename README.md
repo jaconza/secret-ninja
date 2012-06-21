@@ -106,10 +106,26 @@ Build pack to compile classmaps at update?
 
 ---
 
-## Apache Ant
+## Apache
+
+### Ant
 
 * http://ant.apache.org/
 * http://ant.apache.org/manual/tutorial-writing-tasks.html
 * http://ant.apache.org/manual/develop.html
 * http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
 * http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
+
+## Modules
+
+* http://httpd.apache.org/docs/2.2/mod/mod_cache.html
+* http://code.google.com/speed/page-speed/docs/module.html
+* http://httpd.apache.org/docs/2.0/mod/mod_expires.html
+
+
+## Apache as a Proxy
+
+* http://www.serverwatch.com/tutorials/article.php/10825_3092521_3/Configuring-Apache-20-as-a-Forward-Proxy-Server.htm
+
+---
+
