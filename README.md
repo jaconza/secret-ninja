@@ -138,3 +138,16 @@ Build pack to compile classmaps at update?
  
 ---
 
+## Mongo db
+
+* http://www.mongodb.org/display/DOCS/Replica+Sets+-+Voting
+* http://www.mongodb.org/display/DOCS/Replica+Set+Commands
+* http://www.mongodb.org/display/DOCS/Replica+Sets+-+Oplog
+* http://www.mongodb.org/display/DOCS/Capped+Collections
+* http://www.mongodb.org/display/DOCS/Replica+Set+Tutorial
+* http://www.mongodb.org/display/DOCS/Replica+Sets+-+Basics
+* http://www.mongodb.org/display/DOCS/Replica+Sets+-+Priority
+* http://www.mongodb.org/display/DOCS/Adding+an+Arbiter
+* http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
+
+---
