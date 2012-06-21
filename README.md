@@ -1,6 +1,6 @@
 # Secret Ninja
 
-A Collection of Markdown files containing useful links and information.
+A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
 ## Heroku
 
@@ -151,6 +151,8 @@ Build pack to compile classmaps at update?
 * http://www.mongodb.org/display/DOCS/Replica+Sets+-+Priority
 * http://www.mongodb.org/display/DOCS/Adding+an+Arbiter
 * http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
+* http://devzone.zend.com/1730/getting-started-with-mongodb-and-php/
+* http://framework.zend.com/wiki/display/ZFPROP/Zend_Nosql_Mongo+-+Valentin+Golev
 
 ---
 
@@ -188,3 +190,9 @@ Build pack to compile classmaps at update?
 * http://www.springsource.org/spring-data/mongodb
 
 ---
+
+## Database migration
+
+* https://github.com/ruckus/ruckusing-migrations
+* https://github.com/nickinuse/php-migrations
+* http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
