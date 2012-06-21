@@ -151,3 +151,19 @@ Build pack to compile classmaps at update?
 * http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
 
 ---
+
+## Automated/Continuous Deployment
+
+* https://github.com/leehambley/railsless-deploy/
+* http://hivelogic.com/articles/deploying-expressionengine-github-capistrano/
+* http://mathew-davies.co.uk/2009/10/28/php-deployment.html
+* https://github.com/capistrano/capistrano/wiki
+* https://github.com/namics/capistrano-php/blob/master/lib/capistrano/php.rb
+* http://www.davegardner.me.uk/blog/2012/02/13/php-deployment-with-capistrano/
+* http://tfountain.co.uk/blog/2009/5/11/zend-framework-capistrano-deployment
+* http://www.davegardner.me.uk/blog/2012/02/13/php-deployment-with-capistrano/
+* https://github.com/capistrano/capistrano/wiki/
+* https://github.com/holman/feedback/issues/38
+* https://github.com/blog/470-deployment-script-spring-cleaning
+
+---
