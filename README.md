@@ -76,6 +76,8 @@ Build pack to compile classmaps at update?
 
 ## Mocking and PHPUnit
 
+* http://www.slideshare.net/sebastian_bergmann/phpunit-best-practices
+
 ### Stubbing/Mocking Hardcoded Dependancies
 
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
