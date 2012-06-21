@@ -4,12 +4,12 @@ A Collection of Markdown files containing useful links and information.
 
 ## Heroku
 
-## Php on Heroku
+### Php on Heroku
 
 * http://hakre.wordpress.com/2012/05/20/php-on-heroku-again/
 * https://github.com/winglian/Heroku-PHP/tree/master/conf
 
-## Composer support
+### Composer support
 
 Using Composer in heroku ing custom build packs:
  * https://devcenter.heroku.com/articles/buildpacks
@@ -30,7 +30,7 @@ Build pack to compile classmaps at update?
 
 ## Capistrano
 
-## Cleaning Logs and Strucuture
+### Cleaning Logs and Strucuture
 
  * http://jondavidjohn.com/blog/2012/04/cleaning-up-capistrano-deployment-output
  * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
@@ -43,28 +43,28 @@ Build pack to compile classmaps at update?
 * http://mwop.net/blog.html
 * http://ralphschindler.com/
 
-## Configuration
+### Configuration
 
  * http://www.spiffyjr.me/2012/06/17/how-does-configuration-work-in-zf2/
  
-## JSON ViewStrategy
+### JSON ViewStrategy
 
  * http://akrabat.com/zend-framework-2/returning-json-from-a-zf2-controller-action/
 
-## Example Applications
+### Example Applications
 
  * https://github.com/akrabat
  * https://github.com/akrabat/ZF2TestApp
 
-# Exceptions and handling errors in Php
+## Exceptions and handling errors in Php
 
  * http://framework.zend.com/wiki/display/ZFDEV2/Proposal+for+Exceptions+in+ZF2
  * http://www.php.net/manual/en/spl.exceptions.php
  * http://mwop.net/blog/on-error-handling-and-closures.html
 
-# Mocking and PHPUnit
+## Mocking and PHPUnit
 
-## Stubbing/Mocking Hardcoded Dependancies
+### Stubbing/Mocking Hardcoded Dependancies
 
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
 * http://sebastian-bergmann.de/archives/885-Stubbing-Hard-Coded-Dependencies.html
