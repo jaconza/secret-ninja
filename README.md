@@ -69,6 +69,7 @@ Build pack to compile classmaps at update?
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
 * http://sebastian-bergmann.de/archives/885-Stubbing-Hard-Coded-Dependencies.html
 
+
 ## Cross Browser Testing Tools
 
 * https://browserlab.adobe.com/en-us/index.html
