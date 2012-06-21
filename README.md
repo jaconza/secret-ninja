@@ -167,3 +167,22 @@ Build pack to compile classmaps at update?
 * https://github.com/blog/470-deployment-script-spring-cleaning
 
 ---
+
+## Restful Webservices
+
+* http://www.ibm.com/developerworks/webservices/library/ws-restful/
+* http://stackoverflow.com/questions/630453/put-vs-post-in-rest
+* http://jacwright.com/250/simple-rest-server-in-php-supports-json-amf/
+* http://devzone.zend.com/1590/create-restful-server-application-using-the-zend-framework/
+* http://stackoverflow.com/questions/2081894/handling-put-delete-arguments-in-php
+* http://www.recessframework.org/page/towards-restful-php-5-basic-tips
+* http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.htm
+* http://developer.github.com/v3/
+* http://www.packetizer.com/ws/rest.html
+* http://mwop.net/blog/233-Responding-to-Different-Content-Types-in-RESTful-ZF-Apps.html
+* http://odino.org/rest-better-http-cache/
+* http://restpatterns.org/HTTP_Status_Codes
+* http://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete
+* http://www.springsource.org/spring-data/mongodb
+
+---
