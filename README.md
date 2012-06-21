@@ -12,6 +12,7 @@ A Collection of Markdown files containing useful links and information.
 ### Composer support
 
 Using Composer in heroku ing custom build packs:
+
 * https://devcenter.heroku.com/articles/buildpacks
 * https://devcenter.heroku.com/articles/buildpack-api
 * http://bergie.iki.fi/blog/using_composer_to_manage_dependencies_in_heroku_php_apps/
@@ -25,6 +26,7 @@ Composer code for buildpack:
 Build pack to compile classmaps at update?
 
 ## Nginx
+
 * http://arstechnica.com/business/2011/11/a-faster-web-server-ripping-out-apache-for-nginx/ (be sure to note the over friendly php error)
 * http://wiki.nginx.org/Pitfalls#Pass_Non-PHP_Requests_to_PHP.
 
@@ -68,20 +70,3 @@ Build pack to compile classmaps at update?
 
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
 * http://sebastian-bergmann.de/archives/885-Stubbing-Hard-Coded-Dependencies.html
-
-## GWT
-
-* http://code.google.com/p/gwt-platform/wiki/GettingStarted#Browsing_the_Javadoc
-
-## How to handle sessions in GWT(P)
-
-* http://zawoad.blogspot.com/2009/12/session-management-set-and-get-data.html
-* http://code.google.com/p/google-web-toolkit-incubator/wiki/LoginSecurityFAQ
-* http://code.google.com/p/gwtsecurity/wiki/designConsideration
-* http://varuntayur.wordpress.com/2012/01/25/session-management-in-gwt/
- 
-## Cross Browser Testing Tools
-
-* https://browserlab.adobe.com/en-us/index.html
-* https://browserlab.adobe.com/
-* http://www.browserstack.com/
