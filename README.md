@@ -105,3 +105,11 @@ Build pack to compile classmaps at update?
 * http://www.browserstack.com/
 
 ---
+
+## Apache Ant
+
+* http://ant.apache.org/
+* http://ant.apache.org/manual/tutorial-writing-tasks.html
+* http://ant.apache.org/manual/develop.html
+* http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
+* http://ant.apache.org/manual/tutorial-tasks-filesets-properties.html
