@@ -196,7 +196,7 @@ Build pack to compile classmaps at update?
 * https://github.com/ruckus/ruckusing-migrations
 * https://github.com/nickinuse/php-migrations
 * http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
-* 
+
 ---
 
 ## Feature branches
