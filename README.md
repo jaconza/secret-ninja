@@ -198,3 +198,7 @@ Build pack to compile classmaps at update?
 * http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
 * 
 ---
+
+## Feature branches
+
+* http://martinfowler.com/bliki/FeatureBranch.html
