@@ -64,6 +64,10 @@ Build pack to compile classmaps at update?
 * https://github.com/akrabat
 * https://github.com/akrabat/ZF2TestApp
 
+### Event Manager 
+
+* http://akrabat.com/zend-framework-2/an-introduction-to-zendeventmanager/
+
 ---
 
 ## Exception- and Errors handling in Php
