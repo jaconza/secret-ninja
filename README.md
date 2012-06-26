@@ -102,6 +102,11 @@ Build pack to compile classmaps at update?
 * http://code.google.com/p/gwtsecurity/wiki/designConsideration
 * http://varuntayur.wordpress.com/2012/01/25/session-management-in-gwt/
 
+## RESTful Service in GWT
+
+* http://blog.furiousbob.com/2011/03/27/putting-your-gwt-service-to-rest/
+* http://restygwt.fusesource.org/documentation/restygwt-user-guide.html
+
 ---
  
 ## Cross Browser Testing Tools
