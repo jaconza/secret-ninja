@@ -213,3 +213,9 @@ Build pack to compile classmaps at update?
 * http://www.springsource.org/spring-data/mongodb
 
 ---
+
+## Installing PHP 5.4 on Ubuntu
+
+* http://chemicaloliver.net/internet/installing-php-5-4-in-ubuntu/
+
+---
