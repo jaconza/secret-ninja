@@ -181,6 +181,20 @@ Build pack to compile classmaps at update?
 
 ---
 
+## Database migration
+
+* https://github.com/ruckus/ruckusing-migrations
+* https://github.com/nickinuse/php-migrations
+* http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
+
+---
+
+## Feature branches
+
+* http://martinfowler.com/bliki/FeatureBranch.html
+
+---
+
 ## Restful Webservices
 
 * http://www.ibm.com/developerworks/webservices/library/ws-restful/
@@ -199,15 +213,3 @@ Build pack to compile classmaps at update?
 * http://www.springsource.org/spring-data/mongodb
 
 ---
-
-## Database migration
-
-* https://github.com/ruckus/ruckusing-migrations
-* https://github.com/nickinuse/php-migrations
-* http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
-
----
-
-## Feature branches
-
-* http://martinfowler.com/bliki/FeatureBranch.html
