@@ -219,3 +219,11 @@ Build pack to compile classmaps at update?
 * http://chemicaloliver.net/internet/installing-php-5-4-in-ubuntu/
 
 ---
+
+## PHPCS pre-commit hooke on git for PSR standards in PHP
+
+* http://pear.php.net/package/PHP_CodeSniffer/redirected
+* https://github.com/klaussilveira/phpcs-psr
+* https://github.com/s0enke/git-hooks/tree/master/phpcs-pre-commit
+
+---
