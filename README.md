@@ -6,6 +6,7 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947
 * http://aws.amazon.com/free/ (Free EC2 tier)
+* http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/deploy-sample-app.html
 
 ## CI and PHP
 
