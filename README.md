@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Amazon EC2
+
+* http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947
+
 ## CI and PHP
 
 * http://jenkins-php.org/
