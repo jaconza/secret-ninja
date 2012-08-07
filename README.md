@@ -5,6 +5,7 @@ A Collection of Markdown files containing useful links and information related t
 ## Amazon EC2
 
 * http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947
+* http://aws.amazon.com/free/ (Free EC2 tier)
 
 ## CI and PHP
 
