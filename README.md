@@ -2,9 +2,11 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
-## Jenkins CI and PHP
+## CI and PHP
 
 * http://jenkins-php.org/
+* http://travis-ci.org/ - For opensource projects on github
+* http://www.devopsy.com/blog/2012/01/20/continuous-deployment-to-heroku-with-jenkins/ - Jenkins with heroku deployment
 
 ## Heroku
 
