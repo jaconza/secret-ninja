@@ -7,6 +7,7 @@ A Collection of Markdown files containing useful links and information related t
 * http://jenkins-php.org/
 * http://travis-ci.org/ - For opensource projects on github
 * http://www.devopsy.com/blog/2012/01/20/continuous-deployment-to-heroku-with-jenkins/ - Jenkins with heroku deployment
+* http://about.travis-ci.org/blog/announcing-pull-request-support/
 
 ## Heroku
 
