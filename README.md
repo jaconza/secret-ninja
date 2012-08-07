@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Jenkins CI and PHP
+
+* http://jenkins-php.org/
+
 ## Heroku
 
 ### Php on Heroku
