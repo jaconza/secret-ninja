@@ -14,6 +14,7 @@ A Collection of Markdown files containing useful links and information related t
 * http://www.devopsy.com/blog/2012/01/20/continuous-deployment-to-heroku-with-jenkins/ - Jenkins with heroku deployment
 * http://about.travis-ci.org/blog/announcing-pull-request-support/
 * https://github.com/github/janky - Github, Hubot and Jenkins integration opensourced by Github.
+* http://markunsworth.com/2012/02/11/setting-up-a-jenkins-build-server-on-ec2/ - Running Jenkins on Amazon EC2 
 
 ## Heroku
 
