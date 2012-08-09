@@ -82,6 +82,7 @@ Build pack to compile classmaps at update?
 ### Event Manager 
 
 * http://akrabat.com/zend-framework-2/an-introduction-to-zendeventmanager/
+* http://mwop.net/blog/266-Using-the-ZF2-EventManager.html
 
 ---
 
