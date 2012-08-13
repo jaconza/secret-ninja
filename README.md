@@ -24,6 +24,10 @@ A Collection of Markdown files containing useful links and information related t
 * http://hakre.wordpress.com/2012/05/20/php-on-heroku-again/
 * https://github.com/winglian/Heroku-PHP/tree/master/conf
 
+## Php Benchmarking
+
+* http://www.phpbench.com/
+
 ### Composer support
 
 Using Composer in heroku ing custom build packs:
