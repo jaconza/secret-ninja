@@ -69,6 +69,7 @@ Build pack to compile classmaps at update?
 * http://blog.evan.pro/
 * http://mwop.net/blog.html
 * http://ralphschindler.com/
+* http://modules.zendframework.com/
 
 ### Configuration
 
