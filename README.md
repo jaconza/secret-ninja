@@ -59,11 +59,20 @@ Build pack to compile classmaps at update?
 
 ## Capistrano
 
+### Introduction and Tutorials
+
+* http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
+
 ### Cleaning Logs and Strucuture
 
 * http://jondavidjohn.com/blog/2012/04/cleaning-up-capistrano-deployment-output
 * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
 
+### Excepting parameters
+
+* http://archives.ryandaigle.com/articles/2007/6/22/using-command-line-parameters-w-rake-and-capistrano
+* https://groups.google.com/forum/?fromgroups#!topic/capistrano/BYklL6-QMOc%5B1-25%5D
+* 
 ---
 
 ## ZF 2 
