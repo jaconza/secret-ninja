@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Hubot
+
+* http://chanux.posterous.com/installing-githubs-hubot-on-ubuntu - Installing hubot on ubuntu 
+
 ## Node js
 
  * https://github.com/joyent/node/wiki/Installation - How to install
@@ -66,6 +70,7 @@ Build pack to compile classmaps at update?
 ### Introduction and Tutorials
 
 * http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html
+* https://help.github.com/articles/deploying-with-capistrano
 
 ### Cleaning Logs and Strucuture
 
@@ -76,7 +81,12 @@ Build pack to compile classmaps at update?
 
 * http://archives.ryandaigle.com/articles/2007/6/22/using-command-line-parameters-w-rake-and-capistrano
 * https://groups.google.com/forum/?fromgroups#!topic/capistrano/BYklL6-QMOc%5B1-25%5D
+
+## Github stuff
+
+* https://github.com/blog/470-deployment-script-spring-cleaning
 * 
+
 ---
 
 ## ZF 2 
