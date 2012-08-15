@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Samba Share On Linux
+
+* http://www.howtogeek.com/howto/ubuntu/install-samba-server-on-ubuntu/
+
 ## Amazon EC2
 
 * http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947
