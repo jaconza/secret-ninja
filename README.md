@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Node js
+
+ * https://github.com/joyent/node/wiki/Installation - How to install
+
 ## Samba Share On Linux
 
 * http://www.howtogeek.com/howto/ubuntu/install-samba-server-on-ubuntu/
