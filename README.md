@@ -2,9 +2,16 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Mobile Web
+
+### Frameworks
+
+* http://www.sencha.com/products/touch/features/ - Sencha Touch
+* http://jquerymobile.com/ - jQuery Mobile
+
 ## Databas Versioning
 
-* http://www.liquibase.org/
+* http://www.liquibase.org/ - Liquibase
 
 ## Hubot
 
@@ -16,20 +23,20 @@ A Collection of Markdown files containing useful links and information related t
 
 ## Samba Share On Linux
 
-* http://www.howtogeek.com/howto/ubuntu/install-samba-server-on-ubuntu/
+* http://www.howtogeek.com/howto/ubuntu/install-samba-server-on-ubuntu/ - Install a samba server on Ubuntu
 
 ## Amazon EC2
 
-* http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947
-* http://aws.amazon.com/free/ (Free EC2 tier)
-* http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/deploy-sample-app.html
+* http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947 - Getting Started
+* http://aws.amazon.com/free/ - Free EC2 tier
+* http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/deploy-sample-app.html - Sample application and deployment
 
 ## CI and PHP
 
-* http://jenkins-php.org/
+* http://jenkins-php.org/ - Jenkins PHP Template
 * http://travis-ci.org/ - For opensource projects on github
 * http://www.devopsy.com/blog/2012/01/20/continuous-deployment-to-heroku-with-jenkins/ - Jenkins with heroku deployment
-* http://about.travis-ci.org/blog/announcing-pull-request-support/
+* http://about.travis-ci.org/blog/announcing-pull-request-support/ - Travisbot supports PRs
 * https://github.com/github/janky - Github, Hubot and Jenkins integration opensourced by Github.
 * http://markunsworth.com/2012/02/11/setting-up-a-jenkins-build-server-on-ec2/ - Running Jenkins on Amazon EC2 
 
