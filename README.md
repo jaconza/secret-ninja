@@ -2,6 +2,7 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+
 ## Mobile Web
 
 ### Frameworks
@@ -155,6 +156,11 @@ Build pack to compile classmaps at update?
 ## GWT
 
 * http://code.google.com/p/gwt-platform/wiki/GettingStarted#Browsing_the_Javadoc
+
+
+### Compiling
+
+* https://developers.google.com/web-toolkit/doc/latest/DevGuideCompilingAndDebugging#DevGuideCompilerOptions - Compiling from command line
 
 ---
 
