@@ -235,6 +235,11 @@ Build pack to compile classmaps at update?
 * http://devzone.zend.com/1730/getting-started-with-mongodb-and-php/
 * http://framework.zend.com/wiki/display/ZFPROP/Zend_Nosql_Mongo+-+Valentin+Golev
 
+### Schema Design
+
+* http://blog.mongodb.org/post/29140593886/designing-mongodb-schemas-with-embedded-non-embedded
+* http://www.mongodb.org/display/DOCS/Schema+Design
+
 ---
 
 ## Automated/Continuous Deployment
