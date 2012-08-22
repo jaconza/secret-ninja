@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Ruby
+
+* http://guides.rubygems.org/make-your-own-gem/ - Creating a Ruby gem
+
 ## MySQL
 
 * http://www.tokutek.com/ - High Performance, Scalable alternative to Innodb engine.
