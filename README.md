@@ -354,3 +354,8 @@ http://packages.zendframework.com/docs/latest/manual/en/zend.http.html#zend.http
 Look at overriding of verbs on:
 
 http://dev.agilezen.com/concepts/overview.html
+
+## Programatically creating Word Documents
+
+* http://www.joelonsoftware.com/items/2008/02/19.html
+* http://stackoverflow.com/questions/124959/create-word-document-using-php-in-linux
