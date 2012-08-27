@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Chef
+
+* http://wiki.opscode.com/display/chef/Installing+Chef+Server+on+Debian+or+Ubuntu+using+Packages Installing chef via apt-get
+
 ## Git
 
 * http://git-scm.com/book/en/Git-on-the-Server-Setting-Up-the-Server - Setting up a basic git server with ssh access
