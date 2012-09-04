@@ -55,6 +55,8 @@ A Collection of Markdown files containing useful links and information related t
 * http://about.travis-ci.org/blog/announcing-pull-request-support/ - Travisbot supports PRs
 * https://github.com/github/janky - Github, Hubot and Jenkins integration opensourced by Github.
 * http://markunsworth.com/2012/02/11/setting-up-a-jenkins-build-server-on-ec2/ - Running Jenkins on Amazon EC2 
+* http://abhirama.wordpress.com/2008/11/03/apache-mod_proxy-in-ubuntu/
+* https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
 
 ## Heroku
 
