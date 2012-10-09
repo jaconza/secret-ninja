@@ -2,6 +2,11 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Montoring and Metrics
+
+* http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/
+* http://codeascraft.etsy.com/2010/12/08/track-every-release/
+
 ## Chef
 
 * http://wiki.opscode.com/display/chef/Installing+Chef+Server+on+Debian+or+Ubuntu+using+Packages Installing chef via apt-get
