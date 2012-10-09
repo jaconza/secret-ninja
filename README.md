@@ -6,6 +6,7 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/
 * http://codeascraft.etsy.com/2010/12/08/track-every-release/
+* http://www.slideshare.net/postwait/monitoring-and-observability
 
 ## Chef
 
