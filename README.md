@@ -11,6 +11,8 @@ A Collection of Markdown files containing useful links and information related t
 ## Chef
 
 * http://wiki.opscode.com/display/chef/Installing+Chef+Server+on+Debian+or+Ubuntu+using+Packages Installing chef via apt-get
+* http://vagrantup.com/v1/docs/provisioners/chef_solo.html Testing Chef recipes with vagrant
+* http://acrmp.github.com/foodcritic/ A lint tool for your Opscode Chef cookbooks.
 
 ## Git
 
