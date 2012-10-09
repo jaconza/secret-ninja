@@ -26,6 +26,10 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://www.tokutek.com/ - High Performance, Scalable alternative to Innodb engine.
 
+## MySQL and NoSql alternatives
+
+* http://www.memsql.com/
+
 ## Mobile Web
 
 ### Frameworks
