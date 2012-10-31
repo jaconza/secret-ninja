@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Python
+
+* http://www.diveintopython.net/toc/index.html
+
 ## Montoring and Metrics
 
 * http://codeascraft.etsy.com/2011/02/15/measure-anything-measure-everything/
