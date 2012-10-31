@@ -185,6 +185,7 @@ Build pack to compile classmaps at update?
 ## GWT
 
 * http://code.google.com/p/gwt-platform/wiki/GettingStarted#Browsing_the_Javadoc
+* http://www.summa-tech.com/blog/2012/06/11/7-tips-for-exception-handling-in-gwt/ Exception Handling.
 
 
 ### Compiling
