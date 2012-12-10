@@ -130,7 +130,7 @@ Build pack to compile classmaps at update?
 ## Github stuff
 
 * https://github.com/blog/470-deployment-script-spring-cleaning
-* 
+* http://scottchacon.com/2011/08/31/github-flow.html Github Workflow.
 
 ---
 
