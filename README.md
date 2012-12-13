@@ -8,6 +8,7 @@ Running php with apache over fastcgi using php-fpm
 * http://stackoverflow.com/questions/10678542/php5-fpm-children-and-requests
 * https://alexcabal.com/installing-apache-mod_fastcgi-php-fpm-on-ubuntu-server-maverick/
 * http://whocares.de/fastcgiexternalserver-demystified/all/1/
+* http://articles.slicehost.com/2010/5/19/configuring-the-apache-mpm-on-ubuntu Configuring the apache mpm on ubuntu
 
 ## Python
 
