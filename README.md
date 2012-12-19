@@ -2,6 +2,9 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Custom Terminal Prompt
+* http://mediadoneright.com/content/ultimate-git-ps1-bash-prompt
+
 ## PHP, Apache2 and PHP-FPM
 
 Running php with apache over fastcgi using php-fpm
