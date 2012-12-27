@@ -140,6 +140,13 @@ Build pack to compile classmaps at update?
 * http://archives.ryandaigle.com/articles/2007/6/22/using-command-line-parameters-w-rake-and-capistrano
 * https://groups.google.com/forum/?fromgroups#!topic/capistrano/BYklL6-QMOc%5B1-25%5D
 
+### Usefull Reading
+* http://www.claytonlz.com/2008/08/php-deployment-with-capistrano/
+* http://capitate.rubyforge.org/recipes/deploy.html
+* Wiki page https://github.com/capistrano/capistrano/wiki
+* Release paths https://groups.google.com/forum/?fromgroups=#!topic/capistrano/TKoy4it9w-c
+* http://brighternet.com/articles/deploying-static-sites-with-capistrano/
+
 ## Github stuff
 
 * https://github.com/blog/470-deployment-script-spring-cleaning
