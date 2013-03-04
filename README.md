@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Ubuntu Security
+
+* http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
+
 ## Logstash - Scaling Logs
 
 * http://semicomplete.com/presentations/logstash-scale11x/#/1
