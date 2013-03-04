@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Logstash - Scaling Logs
+
+* http://semicomplete.com/presentations/logstash-scale11x/#/1
+
 ## Custom Terminal Prompt
 * http://mediadoneright.com/content/ultimate-git-ps1-bash-prompt
 
