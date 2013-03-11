@@ -6,9 +6,10 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
 
-## Logstash - Scaling Logs
+## Logstash
 
-* http://semicomplete.com/presentations/logstash-scale11x/#/1
+* http://semicomplete.com/presentations/logstash-scale11x/#/1 - Scaling Logging
+* http://kibana.org/intro.html - Kibana UI for logstash
 
 ## Custom Terminal Prompt
 * http://mediadoneright.com/content/ultimate-git-ps1-bash-prompt
