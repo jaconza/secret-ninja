@@ -24,6 +24,10 @@ Running php with apache over fastcgi using php-fpm
 * http://articles.slicehost.com/2010/5/19/apache-configuration-on-ubuntu-part-1
 * http://articles.slicehost.com/2010/5/19/apache-configuration-on-ubuntu-part-2
 
+# Apache
+
+* http://www.debian-administration.org/articles/188 - Basic tweaking
+
 ## Python
 
 * http://www.diveintopython.net/toc/index.html
