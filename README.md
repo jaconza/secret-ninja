@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Frontend Performance
+
+* http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+
 ## Ubuntu Security
 
 * http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
