@@ -358,9 +358,7 @@ Build pack to compile classmaps at update?
 * http://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete
 * http://www.springsource.org/spring-data/mongodb
 * http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn
-
-
- * http://vimeo.com/20781278#at=0 The Rest of Rest. 
+* http://vimeo.com/20781278#at=0 The Rest of Rest. 
 ---
 
 ## Installing PHP 5.4 on Ubuntu
