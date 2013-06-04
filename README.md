@@ -357,6 +357,7 @@ Build pack to compile classmaps at update?
 * http://restpatterns.org/HTTP_Status_Codes
 * http://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete
 * http://www.springsource.org/spring-data/mongodb
+* http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn
 
 ---
 
