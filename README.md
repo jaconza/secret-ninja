@@ -10,6 +10,12 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
 
+## Web Application Security
+
+* http://www.mavitunasecurity.com/netsparker/ Netsparker
+* http://www.openvas.org/ OpenVAS
+* http://w3af.org/ W3af
+
 ## Logstash
 
 * http://semicomplete.com/presentations/logstash-scale11x/#/1 - Scaling Logging
