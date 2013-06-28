@@ -354,45 +354,16 @@ Composer code for buildpack:
 
 ## ZF2 and Restful Webservices
 
-Introduction to proper rest full implementation:
-
-http://www.ibm.com/developerworks/webservices/library/ws-restful/
-
-ZF2 Restfull Controller Documentation:
-
-http://packages.zendframework.com/docs/latest/manual/en/zend.mvc.controllers.html#zend.mvc.controllers.interfaces 
-
-Routing will be VERY important, ZF2 routing documentation:
-
-http://packages.zendframework.com/docs/latest/manual/en/zend.mvc.routing.html
-
-Some thoughts on exposing web services via ZF1 :
-
-http://mwop.net/blog/227-Exposing-Service-APIs-via-Zend-Framework
-
-Building Rest services using ZF1:
-
-http://mwop.net/blog/228-Building-RESTful-Services-with-Zend-Framework
-
-Using Zend to handle and respond in different contexts:
-
-http://mwop.net/blog/233-Responding-to-Different-Content-Types-in-RESTful-ZF-Apps
-
-Link to ZF1 XML RPC Server, might be usefull:
-
-http://framework.zend.com/manual/en/zend.xmlrpc.server.html
-
-Link to ZF1 JSON RPC Server, might be usefull:
-
-http://framework.zend.com/manual/en/zend.json.server.html
-
-Reading of Accept Content type and setting headers for response:
-
-http://packages.zendframework.com/docs/latest/manual/en/zend.http.html#zend.http.overview.request-response-and-headers
-
-Look at overriding of verbs on:
-
-http://dev.agilezen.com/concepts/overview.html
+* Introduction to proper rest full implementation: http://www.ibm.com/developerworks/webservices/library/ws-restful/
+* ZF2 Restfull Controller Documentation: http://packages.zendframework.com/docs/latest/manual/en/zend.mvc.controllers.html#zend.mvc.controllers.interfaces 
+* Routing will be VERY important, ZF2 routing documentation: http://packages.zendframework.com/docs/latest/manual/en/zend.mvc.routing.html
+* Some thoughts on exposing web services via ZF1 : http://mwop.net/blog/227-Exposing-Service-APIs-via-Zend-Framework
+* Building Rest services using ZF1: http://mwop.net/blog/228-Building-RESTful-Services-with-Zend-Framework
+* Using Zend to handle and respond in different contexts: http://mwop.net/blog/233-Responding-to-Different-Content-Types-in-RESTful-ZF-Apps
+* Link to ZF1 XML RPC Server, might be usefull: http://framework.zend.com/manual/en/zend.xmlrpc.server.html
+* Link to ZF1 JSON RPC Server, might be usefull: http://framework.zend.com/manual/en/zend.json.server.html
+* Reading of Accept Content type and setting headers for response: http://packages.zendframework.com/docs/latest/manual/en/zend.http.html#zend.http.overview.request-response-and-headers
+* Look at overriding of verbs on: http://dev.agilezen.com/concepts/overview.html
 
 ## Programatically creating Word Documents
 
