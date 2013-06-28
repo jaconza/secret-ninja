@@ -6,9 +6,15 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 
-## Ubuntu Security
+## Ubuntu
+
+### Security
 
 * http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
+
+### Message of the day
+
+ * http://www.howtogeek.com/104708/how-to-customize-ubuntus-message-of-the-day/
 
 ## Web Application Security
 
