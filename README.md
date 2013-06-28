@@ -124,10 +124,6 @@ Running php with apache over fastcgi using php-fpm
 * http://hakre.wordpress.com/2012/05/20/php-on-heroku-again/
 * https://github.com/winglian/Heroku-PHP/tree/master/conf
 
-## Php Benchmarking
-
-* http://www.phpbench.com/
-
 ### Composer support
 
 Using Composer in heroku ing custom build packs:
@@ -142,16 +138,16 @@ Fork https://github.com/heroku/heroku-buildpack-php and change settings. (Would 
 Composer code for buildpack: 
 * https://github.com/bergie/heroku-buildpack-php/blob/master/bin/compile#L49
 
-Build pack to compile classmaps at update?
+## Php Benchmarking
 
----
+* http://www.phpbench.com/
+
 
 ## Nginx
 
 * http://arstechnica.com/business/2011/11/a-faster-web-server-ripping-out-apache-for-nginx/ (be sure to note the over friendly php error)
 * http://wiki.nginx.org/Pitfalls#Pass_Non-PHP_Requests_to_PHP.
 
----
 
 ## Capistrano
 
@@ -181,8 +177,6 @@ Build pack to compile classmaps at update?
 
 * https://github.com/blog/470-deployment-script-spring-cleaning
 * http://scottchacon.com/2011/08/31/github-flow.html Github Workflow.
-
----
 
 ## ZF 2 
 
@@ -215,15 +209,11 @@ Build pack to compile classmaps at update?
 
 * http://ocramius.github.com/blog/zend-framework-2-controllers-and-dependency-injection-with-zend-di/
 
----
-
 ## Exception- and Errors handling in Php
 
 * http://framework.zend.com/wiki/display/ZFDEV2/Proposal+for+Exceptions+in+ZF2
 * http://www.php.net/manual/en/spl.exceptions.php
 * http://mwop.net/blog/on-error-handling-and-closures.html
-
----
 
 ## Mocking and PHPUnit
 
@@ -234,8 +224,6 @@ Build pack to compile classmaps at update?
 * http://stackoverflow.com/questions/2031385/phpunit-stub-methods-undefined
 * http://sebastian-bergmann.de/archives/885-Stubbing-Hard-Coded-Dependencies.html
 
----
-
 ## GWT
 
 * http://code.google.com/p/gwt-platform/wiki/GettingStarted#Browsing_the_Javadoc
@@ -245,8 +233,6 @@ Build pack to compile classmaps at update?
 ### Compiling
 
 * https://developers.google.com/web-toolkit/doc/latest/DevGuideCompilingAndDebugging#DevGuideCompilerOptions - Compiling from command line
-
----
 
 ## How to handle sessions in GWT(P)
 
@@ -259,16 +245,12 @@ Build pack to compile classmaps at update?
 
 * http://blog.furiousbob.com/2011/03/27/putting-your-gwt-service-to-rest/
 * http://restygwt.fusesource.org/documentation/restygwt-user-guide.html
-
----
  
 ## Cross Browser Testing Tools
 
 * https://browserlab.adobe.com/en-us/index.html
 * https://browserlab.adobe.com/
 * http://www.browserstack.com/
-
----
 
 ## Apache
 
@@ -290,8 +272,6 @@ Build pack to compile classmaps at update?
 
 * http://www.serverwatch.com/tutorials/article.php/10825_3092521_3/Configuring-Apache-20-as-a-Forward-Proxy-Server.htm
 
----
-
 ## PHP Tools
 
 * http://www.smashingmagazine.com/2009/01/20/50-extremely-useful-php-tools/
@@ -299,8 +279,6 @@ Build pack to compile classmaps at update?
 * http://devzone.zend.com/article/2803-Introducing-xdebug
 * http://www.phpsrc.org/projects/pti-php-codesniffer/wiki/
 * http://phpmd.org/download/index.html
- 
----
 
 ## Mongo db
 
@@ -321,8 +299,6 @@ Build pack to compile classmaps at update?
 * http://blog.mongodb.org/post/29140593886/designing-mongodb-schemas-with-embedded-non-embedded
 * http://www.mongodb.org/display/DOCS/Schema+Design
 
----
-
 ## Automated/Continuous Deployment
 
 * https://github.com/leehambley/railsless-deploy/
@@ -337,21 +313,15 @@ Build pack to compile classmaps at update?
 * https://github.com/holman/feedback/issues/38
 * https://github.com/blog/470-deployment-script-spring-cleaning
 
----
-
 ## Database migration
 
 * https://github.com/ruckus/ruckusing-migrations
 * https://github.com/nickinuse/php-migrations
 * http://stackoverflow.com/questions/3324571/is-there-a-php-equivalent-of-rails-migrations
 
----
-
 ## Feature branches
 
 * http://martinfowler.com/bliki/FeatureBranch.html
-
----
 
 ## Restful Webservices
 
@@ -371,21 +341,16 @@ Build pack to compile classmaps at update?
 * http://www.springsource.org/spring-data/mongodb
 * http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api?hn
 * http://vimeo.com/20781278#at=0 The Rest of Rest. 
----
 
 ## Installing PHP 5.4 on Ubuntu
 
 * http://chemicaloliver.net/internet/installing-php-5-4-in-ubuntu/
-
----
 
 ## PHPCS pre-commit hooke on git for PSR standards in PHP
 
 * http://pear.php.net/package/PHP_CodeSniffer/redirected
 * https://github.com/klaussilveira/phpcs-psr
 * https://github.com/s0enke/git-hooks/tree/master/phpcs-pre-commit
-
----
 
 ## ZF2 and Restful Webservices
 
