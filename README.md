@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Virtualization
+
+* Memory efficient VMs in Ubuntu https://coderwall.com/p/a56j3w
+
 ## Frontend Performance
 
 * http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
