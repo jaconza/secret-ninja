@@ -2,6 +2,9 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## HTTP Caches
+* http://tomayko.com/writings/things-caches-do
+
 ## General Sql
 * 10 easy steps to a complete understanding of sql http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
 
