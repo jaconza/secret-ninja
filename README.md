@@ -2,6 +2,9 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Http Header Statusses
+* http://www.emanueleminotto.it/wp-content/uploads/2013/09/http-headers-status1.png
+
 ## HTTP Caches
 * http://tomayko.com/writings/things-caches-do
 
