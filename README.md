@@ -39,6 +39,7 @@ A Collection of Markdown files containing useful links and information related t
 
 * http://semicomplete.com/presentations/logstash-scale11x/#/1 - Scaling Logging
 * http://kibana.org/intro.html - Kibana UI for logstash
+* http://jablonskis.org/2013/elasticsearch-and-logstash-tuning/
 
 ## Custom Terminal Prompt
 * http://mediadoneright.com/content/ultimate-git-ps1-bash-prompt
