@@ -91,7 +91,7 @@ Running php with apache over fastcgi using php-fpm
 * http://www.tokutek.com/ - High Performance, Scalable alternative to Innodb engine.
 * http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/ - 8 Reasons Why mysql enum data type is evil
 * http://www.jonathanlevin.co.uk/2012/04/mastering-mysql-indexing.html - Mastering mysql indexing (nice examples of using percona toolkit for analyzing query behaviour)
-
+* http://www.dbasquare.com/2012/04/04/how-important-a-primary-key-can-be-for-mysql-performance/ - How important a primary key can be for mysql performance
 ## MySQL and NoSql alternatives
 
 * http://www.memsql.com/
