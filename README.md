@@ -119,8 +119,8 @@ Running php with apache over fastcgi using php-fpm
 
 * http://www.howtogeek.com/howto/ubuntu/install-samba-server-on-ubuntu/ - Install a samba server on Ubuntu
 
-## Amazon EC2
-
+## AWS
+* http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/ -  AWS tips I wish I'd known before I started
 * http://docs.amazonwebservices.com/AWSEC2/latest/GettingStartedGuide/Welcome.html?r=3947 - Getting Started
 * http://aws.amazon.com/free/ - Free EC2 tier
 * http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/deploy-sample-app.html - Sample application and deployment
