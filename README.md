@@ -32,6 +32,10 @@ A Collection of Markdown files containing useful links and information related t
 
  * http://www.howtogeek.com/104708/how-to-customize-ubuntus-message-of-the-day/
 
+### Monitoring/ Troubleshooting
+
+ * http://aarvik.dk/linux-monitoring-tools-suggestions-from-hacker-news/ - Linux monitoring tools suggestions from hacker news
+
 ## Web Application Security
 
 * http://www.mavitunasecurity.com/netsparker/ Netsparker
