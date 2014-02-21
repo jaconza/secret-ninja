@@ -2,6 +2,11 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## SSL
+
+* http://publib.boulder.ibm.com/tividd/td/TRM/GC32-1323-00/en_US/HTML/handshak.gif Basics of SSL handshake
+
+
 ## Random vs Sequential IO
 * http://www.violin-memory.com/blog/understanding-io-random-vs-sequential/
 
