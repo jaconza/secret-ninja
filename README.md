@@ -2,6 +2,10 @@
 
 A Collection of Markdown files containing useful links and information related to web development with a strong focus on php.
 
+## Misc 
+
+http://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/
+
 ## SSL
 
 * http://publib.boulder.ibm.com/tividd/td/TRM/GC32-1323-00/en_US/HTML/handshak.gif Basics of SSL handshake
