@@ -11,8 +11,13 @@ http://betterexplained.com/articles/understanding-big-and-little-endian-byte-ord
 * http://publib.boulder.ibm.com/tividd/td/TRM/GC32-1323-00/en_US/HTML/handshak.gif Basics of SSL handshake
 
 
-## Random vs Sequential IO
+## HDD
+
+### Random vs Sequential IO
 * http://www.violin-memory.com/blog/understanding-io-random-vs-sequential/
+ 
+### Understanding HDD workings
+* http://www.overclockers.com/hard-drives-explained/
 
 ## Http Header Statusses
 * http://www.emanueleminotto.it/wp-content/uploads/2013/09/http-headers-status1.png
