@@ -10,6 +10,9 @@ http://betterexplained.com/articles/understanding-big-and-little-endian-byte-ord
 
 * http://publib.boulder.ibm.com/tividd/td/TRM/GC32-1323-00/en_US/HTML/handshak.gif Basics of SSL handshake
 
+## DNS
+
+* Authoritative vs Recursive DNS Servers - http://www.noip.com/blog/2013/11/22/authoritative-dns-vs-recursive-dns-work/ 
 
 ## HDD
 
