@@ -365,6 +365,8 @@ Composer code for buildpack:
 
 ## Restful Webservices
 
+* Principals for standardized Rest Authentication http://broadcast.oreilly.com/2009/12/principles-for-standardized-rest-authentication.html
+
 * http://www.ibm.com/developerworks/webservices/library/ws-restful/
 * http://stackoverflow.com/questions/630453/put-vs-post-in-rest
 * http://jacwright.com/250/simple-rest-server-in-php-supports-json-amf/
