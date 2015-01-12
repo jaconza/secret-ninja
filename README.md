@@ -411,3 +411,14 @@ Composer code for buildpack:
 
 * http://www.joelonsoftware.com/items/2008/02/19.html
 * http://stackoverflow.com/questions/124959/create-word-document-using-php-in-linux
+* 
+## Service Registrars and service discovery
+
+* http://progrium.com/blog/2014/07/29/understanding-modern-service-discovery-with-docker/
+* http://progrium.com/blog/2014/08/20/consul-service-discovery-with-docker/
+* http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/
+* https://github.com/coreos/etcd
+* https://coreos.com/blog/docker-dynamic-ambassador-powered-by-etcd/
+* http://nerds.airbnb.com/smartstack-service-discovery-cloud
+* https://github.com/progrium/registrator/blob/master/bridge.go
+* https://github.com/crosbymichael/skydock
